@@ -11,22 +11,10 @@ import PostAttributes from '../../post-attributes';
     <h1>Blog Archive</h1>
 
     @for (post of posts; track post.attributes.slug) {
-    <a [routerLink]="['/blog/', post.attributes.slug]">
-      <h2 class="post__title">{{ post.attributes.title }}</h2>
-      <p class="post__desc">{{ post.attributes.description }}</p>
+    <a [routerLink]="['/blog/', post.attributes.slug]" class="group block no-underline">
+      <h2 class="text-2xl font-bold text-gray-900 mb-2 leading-snug group-hover:underline">{{ post.attributes.title }}</h2>
+      <p class="text-base text-gray-500 leading-relaxed">{{ post.attributes.description }}</p>
     </a>
-    }
-  `,
-  styles: `
-    a {
-      text-align: left;
-      display: block;
-      margin-bottom: 2rem;
-    }
-
-    .post__title,
-    .post__desc {
-      margin: 0;
     }
   `,
 })
