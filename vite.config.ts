@@ -31,4 +31,5 @@ export default defineConfig(({ mode }) => ({
     include: ['**/*.spec.ts'],
     reporters: ['default'],
   },
+  base: '/argentum11-blog/',
 }));
