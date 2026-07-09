@@ -22,9 +22,16 @@ date: 2026-04-25
 
 || Certified AI Practitioner （AIF-C01）| Certified Cloud Practitioner (CLF-C02)|Certified Solutions Architect - Associate（SAA-C03）|
 |-|-|-|-|
-|進度回報、工作坊、衝刺解題班|✓|||
+|工作坊、衝刺解題班|✓|||
+|進度回報|✓|✓||
 |50％ off 證照報名 voucher （需完成小考以及 Skill Builder Question Set）|✓|✓||
 |Notion 學習資源 （學習資源彙整、考古題、問答庫）|✓|✓|✓|
+
+#### 後記
+
+5 月初，主辦方請我們填寫回饋表單來領取奬品, 進度回報排行榜才發現 Certified Cloud Practitioner 也可以回報進度（沒有官方的進度，回報自己的進度即可）來加分（排行榜前 20 名有額外奬品），但也來不及了（我誤以為 Certified Cloud Practitioner 不能參與回報進度），只能提供這篇心德（可加 5 分），希望能幫助未來的考生。帽子和襪子
+
+![aws_skill_builder-no_direct_answer](./blog/completion_reward.jpeg)
 
 ## 準備策略
 
