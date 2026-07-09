@@ -27,12 +27,6 @@ date: 2026-04-25
 |50％ off 證照報名 voucher （需完成小考以及 Skill Builder Question Set）|✓|✓||
 |Notion 學習資源 （學習資源彙整、考古題、問答庫）|✓|✓|✓|
 
-#### 後記
-
-5 月初，主辦方請我們填寫回饋表單來領取奬品, 進度回報排行榜才發現 Certified Cloud Practitioner 也可以回報進度（沒有官方的進度，回報自己的進度即可）來加分（排行榜前 20 名有額外奬品），但也來不及了（我誤以為 Certified Cloud Practitioner 不能參與回報進度），只能提供這篇心德（可加 5 分），希望能幫助未來的考生。帽子和襪子
-
-![aws_skill_builder-no_direct_answer](./blog/completion_reward.jpeg)
-
 ## 準備策略
 
 我大約準備了  3.5 個月（12/15 ~ 4/2)。因為先前對雲端的了解不多，所以我的準備策略是先把 AWS Skill Builder 上的基礎的課程（AWS Cloud Practitioner Essentials, Getting Started with AWS Cloud Essentials）上完，同時在自己的 Notion 做筆記（內容主要整理各項服務的用途與特色，如下圖）。接著再看去年 AWS Educate 雲端校園大使的證照進度課程。最後搭配證照陪跑計畫內的題目與 AWS Skill Builder 內的 Official Pretest、Official Practice exam 輪流刷題。(AWS Skill Builder 中部分內容如 Official Pretest, Domain Practice, Official Practice Exam,...須付費訂閱，我是考前一個月才訂閱，費用是 29 USD，大家自行斟酌)
@@ -91,3 +85,15 @@ AWS Certified Cloud Practitioner (CLF-C02)這張證照整體難度不高，只�
   - 考試費用：100 USD
   - VAT： 5 USD
   - Voucher: 50% off
+
+## 後記
+
+5 月初，主辦方請學員填寫回饋表單以領取考照獎品，我也因此看到了進度回報排行榜。這時才發現，原來 **AWS Certified Cloud Practitioner（CLF-C02）** 也可以自行回報學習進度來累積積分（排行榜前 20 名有額外奬品），並不是只有 **AWS Certified AI Practitioner（AIF-C01）** 才能參與。
+
+由於陪跑計畫沒有提供 CLF-C02 的官方進度安排，我一直誤以為這張證照無法回報進度，因此整個準備期間都沒有參與。等到發現時，排行榜積分早已拉開差距，也來不及追趕了。
+
+好在除了進度回報之外，分享考照心得也可以獲得 5 分，幸好我早已完成這篇心得，希望能幫助未來準備 **AWS Certified Cloud Practitioner（CLF-C02）** 的考生，同時也作為自己這段備考歷程的紀錄。
+
+6 月中，我收到了陪跑計畫的考照獎品，是一頂帽子和一雙襪子，也算是替這段約 3.5 個月的備考旅程畫下一個圓滿的句點。
+
+![aws_skill_builder-no_direct_answer](./blog/completion_reward.png)
