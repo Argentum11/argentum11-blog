@@ -10,8 +10,8 @@ import PostAttributes from '../../post-attributes';
   template: `
     @if (post$ | async; as post) {
     <article class="prose max-w-7xl lg:prose-xl mx-auto prose-li:marker:text-black prose-li:marker:font-bold prose-li:text-left">
-      <img class="post__image" [src]="post.attributes.coverImage" />
-      <analog-markdown [content]="post.content" />
+      <img class="post__image" [src]="postAssetUrl(post.attributes.slug, post.attributes.coverImage)" />
+      <analog-markdown [content]="resolveContentImages(post.content, post.attributes.slug)" />
     </article>
     }
   `,
@@ -23,4 +23,13 @@ import PostAttributes from '../../post-attributes';
 })
 export default class BlogPost {
   readonly post$ = injectContent<PostAttributes>('slug');
+
+  postAssetUrl(slug: string, relativePath: string): string {
+    return relativePath.replace(/^\.\//, `./blog/${slug}/`);
+  }
+
+  resolveContentImages(content: string | object | undefined, slug: string): string | object | undefined {
+    if (typeof content !== 'string') return content;
+    return content.replace(/src="\.\//g, `src="./blog/${slug}/`);
+  }
 }

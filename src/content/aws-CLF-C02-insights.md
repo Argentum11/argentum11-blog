@@ -2,7 +2,7 @@
 title: AWS Certified Cloud Practitioner (CLF-C02) 考照心得
 slug: aws-CLF-C02-insights
 description: 分享 AWS Certified Cloud Practitioner (CLF-C02) 準備 3.5 個月的考照心得，包含讀書資源、證照陪跑計畫、線上考試經驗與花費整理。
-coverImage: ./blog/AWS_CLF-C02_exam_results.png
+coverImage: ./AWS_CLF-C02_exam_results.png
 date: 2026-04-25
 ---
 
@@ -31,7 +31,7 @@ date: 2026-04-25
 
 我大約準備了  3.5 個月（12/15 ~ 4/2)。因為先前對雲端的了解不多，所以我的準備策略是先把 AWS Skill Builder 上的基礎的課程（AWS Cloud Practitioner Essentials, Getting Started with AWS Cloud Essentials）上完，同時在自己的 Notion 做筆記（內容主要整理各項服務的用途與特色，如下圖）。接著再看去年 AWS Educate 雲端校園大使的證照進度課程。最後搭配證照陪跑計畫內的題目與 AWS Skill Builder 內的 Official Pretest、Official Practice exam 輪流刷題。(AWS Skill Builder 中部分內容如 Official Pretest, Domain Practice, Official Practice Exam,...須付費訂閱，我是考前一個月才訂閱，費用是 29 USD，大家自行斟酌)
 
-![notion note for AWS CLF-C02](./blog/notion_note_for_AWS_CLF-C02.png)
+![notion note for AWS CLF-C02](./notion_note_for_AWS_CLF-C02.png)
 
 之所以不用 ExamTopics 刷題，是看了許多網路上的考照心得，其中都不約而同提到網站上的答案不一定正確，雖然也可以參考討論區的答案，但對雲端基礎還不夠熟的我來說，要自行判斷哪些答案可信其實有點困難，因此最後沒有採用這個方式（證照陪跑計畫題庫裡面也有幾題我不太認同的答案，不過數量很少就乾脆算了）
 
@@ -39,7 +39,7 @@ date: 2026-04-25
 
 ### AWS Skill Builder 答錯後看不到答案
 
-![aws_skill_builder-no_direct_answer](./blog/aws_skill_builder-no_direct_answer.png)
+![aws_skill_builder-no_direct_answer](./aws_skill_builder-no_direct_answer.png)
 
 如上圖所示，AWS Skill Builder 課後練習在答錯時，不會直接顯示正確答案。我當時有幾個單元只能一直重刷整份練習，直到每一題都答對為止（課後練習中錯誤的題目不能單獨重做，每次都得全部重來）。答錯其實沒關系，但是如果連正確答案都不知道，就會覺得自己沒有真的搞懂這個單元的精髓。
 
@@ -96,8 +96,8 @@ AWS Certified Cloud Practitioner (CLF-C02)這張證照整體難度不高，只�
 
 6 月中，我收到了陪跑計畫的考照獎品，是一頂帽子和一雙襪子，也算是替這段約 3.5 個月的備考旅程畫下一個圓滿的句點。
 
-![aws_skill_builder-no_direct_answer](./blog/completion_reward.png)
+![aws_skill_builder-no_direct_answer](./completion_reward.png)
 
 7 月底，再收到了一個袋子，應該也是陪跑計畫的考照獎品。
 
-![2026_Winter_AWS_Educate-completion_reward-2](./blog/completion_reward-2.png)
+![2026_Winter_AWS_Educate-completion_reward-2](./completion_reward-2.png)
