@@ -96,7 +96,7 @@ AWS Certified Cloud Practitioner (CLF-C02)這張證照整體難度不高，只�
 
 6 月中，我收到了陪跑計畫的考照獎品，是一頂帽子和一雙襪子，也算是替這段約 3.5 個月的備考旅程畫下一個圓滿的句點。
 
-![aws_skill_builder-no_direct_answer](./completion_reward.png)
+![2026_Winter_AWS_Educate-completion_reward](./completion_reward.png)
 
 7 月底，再收到了一個袋子，應該也是陪跑計畫的考照獎品。
 
